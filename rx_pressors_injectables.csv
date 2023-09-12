@@ -1,0 +1,9 @@
+concept_id,concept_code,concept_name,vocabulary_id,concept_class_id
+36223310,1158147,phenylephrine Injectable Product,RxNorm,Clinical Dose Group
+36224130,1159604,dobutamine Injectable Product,RxNorm,Clinical Dose Group
+36224715,1159747,isoproterenol Injectable Product,RxNorm,Clinical Dose Group
+36225029,1159845,norepinephrine Injectable Product,RxNorm,Clinical Dose Group
+36223616,1160506,vasopressin (USP) Injectable Product,RxNorm,Clinical Dose Group
+36224502,1160755,dopamine Injectable Product,RxNorm,Clinical Dose Group
+36222613,1163887,epinephrine Injectable Product,RxNorm,Clinical Dose Group
+36221162,1164730,milrinone Injectable Product,RxNorm,Clinical Dose Group

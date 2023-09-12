@@ -1,0 +1,79 @@
+concept_id,concept_name,concept_code,vocabulary_id,ancestor_concept_id,ancestor_concept_name
+4071283,Acute benign pericarditis,173574009,SNOMED,4138837,Pericarditis
+4242712,Interstitial myocarditis,37925008,SNOMED,4164489,Carditis
+4265789,Pancarditis,62185008,SNOMED,4164489,Carditis
+43020874,Viral endocarditis,459057007,SNOMED,4164489,Carditis
+4187049,Coxsackie myocarditis of newborn,413933004,SNOMED,4164489,Carditis
+4276025,Postcardiac injury pericarditis,64420008,SNOMED,4138837,Pericarditis
+315469,Coxsackie pericarditis,27806003,SNOMED,4289908,Viral pericarditis
+317301,Toxic myocarditis,31993003,SNOMED,4164489,Carditis
+43020652,Inflammatory cardiomyopathy,471841009,SNOMED,4164489,Carditis
+4165259,Acute viral pericarditis,40959008,SNOMED,4289908,Viral pericarditis
+4006483,Acute myopericarditis,11176009,SNOMED,4164489,Carditis
+4083887,Subacute interstitial myocarditis,18484008,SNOMED,4164489,Carditis
+4113781,Acute/subacute carditis,286954005,SNOMED,4164489,Carditis
+37312010,Chronic viral carditis,788887009,SNOMED,4164489,Carditis
+4121477,Post-infarction pericarditis,233885007,SNOMED,4138837,Pericarditis
+4289908,Viral pericarditis,70189005,SNOMED,4289908,Viral pericarditis
+4173818,Viral pericarditis - virus unidentified,275513007,SNOMED,4289908,Viral pericarditis
+4108223,Acute pericarditis caused by human coxsackievirus,194905000,SNOMED,4289908,Viral pericarditis
+4237738,Subacute effusive constrictive pericarditis,5836005,SNOMED,4138837,Pericarditis
+433958,Coxsackie endocarditis,88129004,SNOMED,4164489,Carditis
+4164489,Carditis,399617002,SNOMED,4164489,Carditis
+37312037,Acute viral carditis,788860005,SNOMED,4164489,Carditis
+4314708,Subacute pericarditis,86504008,SNOMED,4138837,Pericarditis
+4165259,Acute viral pericarditis,40959008,SNOMED,4138837,Pericarditis
+43020798,Fetal myocarditis,472707009,SNOMED,4164489,Carditis
+764141,Chronic myocarditis,451241000124108,SNOMED,4164489,Carditis
+43021290,Viral pericarditis with pericardial effusion,460445000,SNOMED,4289908,Viral pericarditis
+319728,Coxsackie myocarditis,37217002,SNOMED,4164489,Carditis
+4104253,Pneumopyopericardium,25503004,SNOMED,4138837,Pericarditis
+314383,Myocarditis,50920009,SNOMED,4164489,Carditis
+4204985,Acute periendocarditis,53874003,SNOMED,4138837,Pericarditis
+4178425,Acute pneumopericarditis,50902000,SNOMED,4138837,Pericarditis
+4279774,Adenoviral myocarditis,65718001,SNOMED,4164489,Carditis
+312653,Acute myocarditis,46701001,SNOMED,4164489,Carditis
+320116,Acute pericarditis,15555002,SNOMED,4138837,Pericarditis
+4143969,Isolated (Fiedler's) myocarditis,266238009,SNOMED,4164489,Carditis
+4030730,Subacute constrictive pericarditis,14455008,SNOMED,4138837,Pericarditis
+312334,Constrictive pericarditis,85598007,SNOMED,4138837,Pericarditis
+315293,Acute idiopathic pericarditis,266235007,SNOMED,4138837,Pericarditis
+4111088,Acute aseptic myocarditis of the newborn,194943002,SNOMED,4164489,Carditis
+37109916,Infection causing myoendocarditis,723865005,SNOMED,4164489,Carditis
+4170217,Subacute periendocarditis,48228003,SNOMED,4138837,Pericarditis
+4121476,Acute infective pericarditis,233881003,SNOMED,4138837,Pericarditis
+46270599,History of myocarditis,681211000119101,SNOMED,46270599,History of myocarditis
+43021291,Constrictive pericarditis due to virus,460450006,SNOMED,4289908,Viral pericarditis
+4231274,Viral myocarditis,89141000,SNOMED,4164489,Carditis
+4264536,Chronic interstitial myocarditis,45093008,SNOMED,4164489,Carditis
+4138837,Pericarditis,3238004,SNOMED,4138837,Pericarditis
+4072086,Acute bloody pericarditis,176401009,SNOMED,4138837,Pericarditis
+4035033,Pyogenic pericarditis,15016005,SNOMED,4138837,Pericarditis
+4006483,Acute myopericarditis,11176009,SNOMED,4138837,Pericarditis
+4103288,Acute purulent pericarditis,2554006,SNOMED,4138837,Pericarditis
+4245386,Pericarditis sicca,60357009,SNOMED,4138837,Pericarditis
+4204985,Acute periendocarditis,53874003,SNOMED,4164489,Carditis
+4069712,Acute pleuropericarditis,17668000,SNOMED,4138837,Pericarditis
+4170217,Subacute periendocarditis,48228003,SNOMED,4164489,Carditis
+4147982,Dilated cardiomyopathy secondary to viral myocarditis,30496006,SNOMED,4147982,Dilated cardiomyopathy secondary to viral myocarditis
+4147350,Acute myoendocarditis,30328003,SNOMED,4164489,Carditis
+43021291,Constrictive pericarditis due to virus,460450006,SNOMED,4138837,Pericarditis
+37109914,Myopericarditis,723863003,SNOMED,4164489,Carditis
+4087608,Viral carditis,186755002,SNOMED,4164489,Carditis
+317307,Idiopathic myocarditis,91025000,SNOMED,4164489,Carditis
+36716865,Periendocarditis due to infection,723088005,SNOMED,4164489,Carditis
+4217075,Infectious pericarditis,41739008,SNOMED,4138837,Pericarditis
+43021067,Infective constrictive pericarditis,459184006,SNOMED,4138837,Pericarditis
+4111089,Acute myocarditis - coxsackie,194944008,SNOMED,4164489,Carditis
+36716865,Periendocarditis due to infection,723088005,SNOMED,4138837,Pericarditis
+316631,Coxsackie carditis,128405007,SNOMED,4164489,Carditis
+4304392,Acute mediastinopericarditis,81580000,SNOMED,4138837,Pericarditis
+320745,Acute myocarditis associated with another disorder,194942007,SNOMED,4164489,Carditis
+4070323,Acute effusive pericarditis,177291008,SNOMED,4138837,Pericarditis
+4144887,Lymphocytic myocarditis,427443009,SNOMED,4164489,Carditis
+4331309,Myocarditis due to infectious agent,22653005,SNOMED,4164489,Carditis
+4290395,Subacute myoendocarditis,69589006,SNOMED,4164489,Carditis
+43021185,Myocarditis due to echovirus,460345001,SNOMED,4164489,Carditis
+4006977,Obliterative pericarditis,111300007,SNOMED,4138837,Pericarditis
+4108223,Acute pericarditis caused by human coxsackievirus,194905000,SNOMED,4138837,Pericarditis
+44782774,Chest pain due to pericarditis,34791000119103,SNOMED,0,NA

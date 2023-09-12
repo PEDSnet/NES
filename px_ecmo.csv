@@ -1,0 +1,37 @@
+﻿concept_id,concept_name,vocabulary_id,concept_code
+1523685,Extracorporeal or Systemic Assistance and Performance @ Physiological Systems @ Performance @ Circulatory @ Intraoperative @ Oxygenation,ICD10PCS,5A15A2
+1524103,"Extracorporeal Oxygenation, Membrane, Peripheral Veno-venous, Intraoperative",ICD10PCS,5A15A2H
+1524104,"Extracorporeal Oxygenation, Membrane, Peripheral Veno-arterial, Intraoperative",ICD10PCS,5A15A2G
+1524105,"Extracorporeal Oxygenation, Membrane, Central, Intraoperative",ICD10PCS,5A15A2F
+1531630,"Extracorporeal Oxygenation, Membrane, Peripheral Veno-venous",ICD10PCS,5A1522H
+1531631,"Extracorporeal Oxygenation, Membrane, Peripheral Veno-arterial",ICD10PCS,5A1522G
+1531632,"Extracorporeal Oxygenation, Membrane, Central",ICD10PCS,5A1522F
+2002247,Extracorporeal membrane oxygenation [ECMO],ICD9Proc,39.65
+2007684,Hyperbaric oxygenation,ICD9Proc,93.95
+2007685,Other oxygen enrichment,ICD9Proc,93.96
+2107492,Prolonged extracorporeal circulation for cardiopulmonary insufficiency; initial day,CPT4,33960
+2107493,Prolonged extracorporeal circulation for cardiopulmonary insufficiency; each subsequent day,CPT4,33961
+2614930,Variable concentration mask,HCPCS,A4620
+2787819,"Extracorporeal Hyperbaric Oxygenation, Intermittent",ICD10PCS,5A05121
+2787820,"Extracorporeal Supersaturated Oxygenation, Intermittent",ICD10PCS,5A0512C
+2787821,"Extracorporeal Hyperbaric Oxygenation, Continuous",ICD10PCS,5A05221
+2787822,"Extracorporeal Supersaturated Oxygenation, Continuous",ICD10PCS,5A0522C
+2788034,"Extracorporeal Membrane Oxygenation, Continuous (Deprecated)",ICD10PCS,5A15223
+2818370,Extracorporeal or Systemic Assistance and Performance @ Physiological Systems @ Assistance @ Circulatory @ Continuous @ Oxygenation,ICD10PCS,5A0522
+2826307,Extracorporeal or Systemic Assistance and Performance @ Physiological Systems @ Performance @ Circulatory @ Continuous @ Oxygenation,ICD10PCS,5A1522
+2880858,Extracorporeal or Systemic Assistance and Performance @ Physiological Systems @ Assistance @ Circulatory @ Intermittent @ Oxygenation,ICD10PCS,5A0512
+46257397,"Extracorporeal membrane oxygenation (ECMO)/extracorporeal life support (ECLS) provided by physician; insertion of central cannula(e) by sternotomy or thoracotomy, birth through 5 years of age",CPT4,33955
+46257439,"Extracorporeal membrane oxygenation (ECMO)/extracorporeal life support (ECLS) provided by physician; reposition of central cannula(e) by sternotomy or thoracotomy, birth through 5 years of age (includes fluoroscopic guidance, when performed)",CPT4,33963
+46257510,"Extracorporeal membrane oxygenation (ECMO)/extracorporeal life support (ECLS) provided by physician; daily management, each day, veno-venous",CPT4,33948
+46257511,"Extracorporeal membrane oxygenation (ECMO)/extracorporeal life support (ECLS) provided by physician; daily management, each day, veno-arterial",CPT4,33949
+46257512,"Extracorporeal membrane oxygenation (ECMO)/extracorporeal life support (ECLS) provided by physician; insertion of peripheral (arterial and/or venous) cannula(e), percutaneous, birth through 5 years of age (includes fluoroscopic guidance, when performed)",CPT4,33951
+46257513,"Extracorporeal membrane oxygenation (ECMO)/extracorporeal life support (ECLS) provided by physician; reposition peripheral (arterial and/or venous) cannula(e), percutaneous, birth through 5 years of age (includes fluoroscopic guidance, when performed)",CPT4,33957
+46257543,"Extracorporeal membrane oxygenation (ECMO)/extracorporeal life support (ECLS) provided by physician; initiation, veno-venous",CPT4,33946
+46257544,"Extracorporeal membrane oxygenation (ECMO)/extracorporeal life support (ECLS) provided by physician; removal of peripheral (arterial and/or venous) cannula(e), open, birth through 5 years of age",CPT4,33969
+46257585,Extracorporeal membrane oxygenation (ECMO)/extracorporeal life support (ECLS) provided by physician,CPT4,1022227
+46257586,Extracorporeal Membrane Oxygenation or Extracorporeal Life Support Services and Procedures,CPT4,1021846
+46257682,"Extracorporeal membrane oxygenation (ECMO)/extracorporeal life support (ECLS) provided by physician; initiation, veno-arterial",CPT4,33947
+46257683,"Extracorporeal membrane oxygenation (ECMO)/extracorporeal life support (ECLS) provided by physician; insertion of peripheral (arterial and/or venous) cannula(e), open, birth through 5 years of age",CPT4,33953
+46257685,"Extracorporeal membrane oxygenation (ECMO)/extracorporeal life support (ECLS) provided by physician; removal of central cannula(e) by sternotomy or thoracotomy, birth through 5 years of age",CPT4,33985
+46257729,"Extracorporeal membrane oxygenation (ECMO)/extracorporeal life support (ECLS) provided by physician; reposition peripheral (arterial and/or venous) cannula(e), open, birth through 5 years of age (includes fluoroscopic guidance, when performed)",CPT4,33959
+46257730,"Extracorporeal membrane oxygenation (ECMO)/extracorporeal life support (ECLS) provided by physician; removal of peripheral (arterial and/or venous) cannula(e), percutaneous, birth through 5 years of age",CPT4,33965

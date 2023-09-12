@@ -1,0 +1,22 @@
+concept_id,concept_name,concept_code,vocabulary_id
+3016881,Enterovirus RNA [Presence] in Specimen by NAA with probe detection,29591-5,LOINC
+40763579,Parechovirus RNA [Presence] in Specimen by NAA with probe detection,60525-3,LOINC
+21493360,Enterovirus RNA [Presence] in Cerebral spinal fluid by NAA with non-probe detection,82194-2,LOINC
+21493359,Parechovirus A RNA [Presence] in Cerebral spinal fluid by NAA with non-probe detection,82193-4,LOINC
+3002433,Enterovirus RNA [Presence] in Cerebral spinal fluid by NAA with probe detection,29558-4,LOINC
+40771044,Enterovirus and Parechovirus A RNA [Identifier] in Specimen by NAA with probe detection,68457-1,LOINC
+36304423,Rhinovirus+Enterovirus RNA [Presence] in Nasopharynx by NAA with probe detection,88721-6,LOINC
+3041258,Parechovirus A RNA [Presence] in Specimen by NAA with probe detection,51669-0,LOINC
+3044933,Cardiac 2D echo panel,34552-0,LOINC
+3031302,Enterovirus RNA [Presence] in Serum by NAA with probe detection,49847-7,LOINC
+3036911,Echovirus 4 Ab [Titer] in Serum by Complement fixation,5143-3,LOINC
+3001460,Echovirus 30 Ab [Titer] in Serum by Complement fixation,6392-5,LOINC
+3014270,Echovirus 11 Ab [Titer] in Serum by Complement fixation,6708-2,LOINC
+3015037,Echovirus 9 Ab [Titer] in Serum by Complement fixation,5147-4,LOINC
+3019072,Echovirus 7 Ab [Titer] in Serum by Complement fixation,6922-9,LOINC
+3043271,Echovirus 7 Ab [Presence] in Body fluid,45281-3,LOINC
+3033672,Echovirus 30 Ab [Units/volume] in Serum,16802-1,LOINC
+4047316,Enterovirus RNA assay,122329007,SNOMED
+3002682,Echovirus 11 Ab [Units/volume] in Serum,7865-9,LOINC
+3002025,Echovirus 9 Ab [Units/volume] in Serum,7872-5,LOINC
+46235751,Enterovirus D68 RNA [Presence] in Specimen by NAA with probe detection,76072-8,LOINC
