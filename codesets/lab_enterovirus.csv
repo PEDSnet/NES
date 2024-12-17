@@ -7,7 +7,6 @@ concept_id,concept_name,concept_code,vocabulary_id
 40771044,Enterovirus and Parechovirus A RNA [Identifier] in Specimen by NAA with probe detection,68457-1,LOINC
 36304423,Rhinovirus+Enterovirus RNA [Presence] in Nasopharynx by NAA with probe detection,88721-6,LOINC
 3041258,Parechovirus A RNA [Presence] in Specimen by NAA with probe detection,51669-0,LOINC
-3044933,Cardiac 2D echo panel,34552-0,LOINC
 3031302,Enterovirus RNA [Presence] in Serum by NAA with probe detection,49847-7,LOINC
 3036911,Echovirus 4 Ab [Titer] in Serum by Complement fixation,5143-3,LOINC
 3001460,Echovirus 30 Ab [Titer] in Serum by Complement fixation,6392-5,LOINC
